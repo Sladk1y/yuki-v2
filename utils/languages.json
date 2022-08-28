@@ -1,0 +1,50 @@
+{
+  "general": {
+    "ru": {
+      "success": "Успех",
+      "error": "Ошибка"
+    },
+    "ua": {
+      "success": "Успіх",
+      "error": "Помилка"
+    },
+    "en": {
+      "success": "Success",
+      "error": "Error"
+    }
+   },
+
+  "lang": {
+    "ru": {
+      "select_lang": "Выберите флаг вашей страны",
+      "lang_changed": "Язык изменен на %s"
+    },
+    "ua": {
+      "select_lang": "Оберіть прапор вашої країни",
+      "lang_changed": "Мова змінена на %s"
+    },
+    "en": {
+      "select_lang": "Select your country flag",
+      "lang_changed": "Language changed to %s"
+    }
+  },
+  "commands": {
+    "hello": {
+      "ru": {
+        "description": "Обычный привет",
+        "usage": "hello",
+        "output": "привет!!"
+      },
+      "ua": {
+        "description": "Звичайний привіт",
+        "usage": "hello",
+        "output": "привіт!"
+      },
+      "en": {
+        "description": "default hello",
+        "usage": "hello",
+        "output": "hello!"
+      }
+    }
+  }
+}

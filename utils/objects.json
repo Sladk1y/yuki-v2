@@ -1,0 +1,24 @@
+{
+  "user": {
+    "guild_id": 0,
+    "user_id": 0,
+    "balance": 0,
+    "bank": 0,
+    "cases": 0
+  },
+  "guild": {
+    "guild_id": 0,
+    "prefix": "!",
+    "currency": "<a:money:998158048952586280>",
+    "premium": null,
+    "lang": "ru"
+  },
+  "errors": {
+    "administrator": "администратор",
+    "ban_members": "банить",
+    "kick_members": "кикать",
+    "manage_channels": "управлять каналами",
+    "manage_guild": "упралять сервером",
+    "manage_messages": "управлять сообщениями"
+  }
+}
