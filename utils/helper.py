@@ -7,8 +7,7 @@ from disnake.ext import commands
 with open("utils/objects.json", "r", encoding="utf-8") as f:
     objects = json.load(f)
 
-db = AsyncIOMotorClient("mongodb+srv://admin:yuki77784564810@yukicluster.afvzitv.mongodb.net/?retryWrites=true&w"
-                        "=majority").test
+db = AsyncIOMotorClient("").main
 users = db.users
 guilds = db.guilds
 
